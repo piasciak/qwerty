@@ -1,0 +1,14 @@
+C:\Users\Adam\source\repos\QWERTY\QWERTY\obj\Debug\QWERTY.csprojResolveAssemblyReference.cache
+C:\Users\Adam\source\repos\QWERTY\QWERTY\obj\Debug\QWERTY.Form1.resources
+C:\Users\Adam\source\repos\QWERTY\QWERTY\obj\Debug\QWERTY.Properties.Resources.resources
+C:\Users\Adam\source\repos\QWERTY\QWERTY\obj\Debug\QWERTY.csproj.GenerateResource.Cache
+C:\Users\Adam\source\repos\QWERTY\QWERTY\obj\Debug\QWERTY.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\QWERTY\QWERTY\bin\Debug\QWERTY.exe.config
+C:\Users\Adam\source\repos\QWERTY\QWERTY\bin\Debug\QWERTY.exe
+C:\Users\Adam\source\repos\QWERTY\QWERTY\bin\Debug\QWERTY.pdb
+C:\Users\Adam\source\repos\QWERTY\QWERTY\obj\Debug\QWERTY.exe
+C:\Users\Adam\source\repos\QWERTY\QWERTY\obj\Debug\QWERTY.pdb
+C:\Users\Adam\source\repos\QWERTY\QWERTY\bin\Debug\QWERTY.exe.manifest
+C:\Users\Adam\source\repos\QWERTY\QWERTY\bin\Debug\QWERTY.application
+C:\Users\Adam\source\repos\QWERTY\QWERTY\obj\Debug\QWERTY.exe.manifest
+C:\Users\Adam\source\repos\QWERTY\QWERTY\obj\Debug\QWERTY.application
